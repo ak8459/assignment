@@ -1,4 +1,4 @@
-##The steps taken to build
+  # The steps taken to build
 1. firstly, I completed html part of the page. Created navbar and middle section for  image and  button.
 2. created navbar it has few links.
 3. then create a div tag within which created two div tag one for overlay effect and second for middle content.
